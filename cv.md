@@ -47,9 +47,9 @@ myCities.forEach((city, index) => console.log(cityInfo(city, index)))
 
 ### Projects
 
-- [Weather forecast (JS)][https://papaya-starburst-71353a.netlify.app/]
-- [Weather forecast (React.js)][https://vocal-creponne-0e3609.netlify.app/]
-- [Dictionary (React.js)][https://dapper-panda-0370f5.netlify.app/]
+- [Weather forecast (JS)](https://papaya-starburst-71353a.netlify.app/)
+- [Weather forecast (React.js)](https://vocal-creponne-0e3609.netlify.app/)
+- [Dictionary (React.js)](https://dapper-panda-0370f5.netlify.app/)
 
 ---
 
@@ -62,10 +62,10 @@ _Obtained a bachelor's degree and a master's degree in "law"_
 
 ### Courses
 
-1. [freeCodeCamp (HTML, CSS)} [https://www.freecodecamp.org/]
-2. [SheCodes (HTML, CSS, Bootstrap, JS, React.js)][https://www.shecodes.io/]
-3. [JavaScript Manual on learnjavascript.ru (in progress)][https://learn.javascript.ru/]
-4. [RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)][https://rs.school/]
+1. [freeCodeCamp (HTML, CSS)](https://www.freecodecamp.org/)
+2. [SheCodes (HTML, CSS, Bootstrap, JS, React.js)](https://www.shecodes.io/)
+3. [JavaScript Manual on learnjavascript.ru (in progress)](https://learn.javascript.ru/)
+4. [RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)](https://rs.school/)
 
 ---
 
