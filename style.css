@@ -471,6 +471,9 @@ a {
 
 .contact-links {
   height: 65px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
 }
 
 .contact-details {
